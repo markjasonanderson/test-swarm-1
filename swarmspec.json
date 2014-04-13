@@ -1,5 +1,4 @@
 { 
-  /* A comment is allowed!!!! */
   "name": "My swarm",
   "description" : "This is an example swarm specification",
   "endpointspecs" : 
